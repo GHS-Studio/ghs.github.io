@@ -1,0 +1,1 @@
+{ "ver":1.4, "log":"修复播放器，修复bug，优化软件", "link":"http://kkb.pub/"}
